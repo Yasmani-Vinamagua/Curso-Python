@@ -42,4 +42,4 @@
 
 - Tupla
     mi_tupla=(1, 5, 6) = crear una Tupla
-    Estructura de datos más rapida, pero son inmutables osea que no se pueden modificar
+        Nota. Estructura de datos más rapida, pero son inmutables osea que no se pueden modificar
